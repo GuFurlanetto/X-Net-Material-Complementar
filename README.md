@@ -13,7 +13,8 @@ O objetivo é fornecer acesso aberto a recursos de apoio que foram mencionados a
 ## Estrutura do Repositório
 
 - **`/complemento-1/`** – Conjunto de materiais complementares citados em diferentes pontos do texto.  
-- **`/complemento-2/`** – Outro conjunto de materiais adicionais mencionados na dissertação.  
+- **`/complemento-2/`** – Outro conjunto de materiais adicionais mencionados na dissertação.
+- **`/Dissertação/`** - Texto completo da dissertação  
 - **`README.md`** – Este documento.
 
 ---
